@@ -1,0 +1,12 @@
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\bin\Debug\net9.0\Client.Library.deps.json
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\bin\Debug\net9.0\Client.Library.dll
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\bin\Debug\net9.0\Client.Library.pdb
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.AssemblyInfoInputs.cache
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.AssemblyInfo.cs
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.csproj.CoreCompileInputs.cache
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.sourcelink.json
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.dll
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\refint\Client.Library.dll
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\Client.Library.pdb
+c:\Users\jnixon\source\repos\CIS-230-SP25-01\Client.Library\obj\Debug\net9.0\ref\Client.Library.dll
